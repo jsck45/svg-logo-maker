@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/jsck45/svg-logo-maker#readme",
   "dependencies": {
-    "inquirer": "^8.2.4",
+    "inquirer": "^8.2.5",
     "jest": "^28.1.3"
   }
 }
