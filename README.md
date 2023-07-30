@@ -41,7 +41,7 @@ Invoke `npm run test` to run tests using the Jest framework.
 
 ## Example Output SVG
 
-![Logo](output/logo.svg)
+![Logo](output/logo1.svg)
 
 ## Walkthrough Video
 
