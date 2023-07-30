@@ -45,4 +45,4 @@ Invoke `npm run test` to run tests using the Jest framework.
 
 ## Walkthrough Video
 
-[Click here to watch a walkthrough video](https://static.fullstack-bootcamp.com/fullstack-ground/module-10/circle.svg)
+[Click here to watch a walkthrough video](https://drive.google.com/file/d/1xIq5sRC45xHQaSiy0mjE3VC9_BEGcSot/view)
